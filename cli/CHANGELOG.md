@@ -1,5 +1,11 @@
 # Changelog
 
+## 7.26.1
+
+### Patch Changes
+
+- [#1763](https://github.com/t3-oss/create-t3-app/pull/1763) [`836fccf`](https://github.com/t3-oss/create-t3-app/commit/836fccf22dc224e283a764649c16090e4ba42b18) Thanks [@skullface](https://github.com/skullface)! - fix: correct casing of “PlanetScale”
+
 ## 7.26.0
 
 ### Minor Changes
